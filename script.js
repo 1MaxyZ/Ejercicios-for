@@ -77,20 +77,3 @@ for (let i=0; i<numeros.length; i++) {
   sumaCuadrados += numeros[i] * numeros[i];
 }
 console.log("La suma de los cuadrados es:", sumaCuadrados);
-
-
-
-
-///////////////////////////////////////////////////////////////////////
-
-//funcion sumar
-
-//funcion IMC = peso (kg)/[estatura (m)]*2
-
-//funcion dar vuelta una palabra
-
-//funcion calculadora
-
-//funcion control de alcholemia
-
-//funcion multa por exceso de velocidad
